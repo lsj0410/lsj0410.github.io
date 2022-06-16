@@ -9,4 +9,4 @@ tags:
   - update
 ---
 
-This is an experimentaray attempt at writing a blog account.
+This is an experimentary attempt at writing a blog account.
