@@ -1,6 +1,7 @@
 ---
 title: "Observation of a footnote"
-layout: post
+layout:
+  -post
 date: 2022-06-18 22:01:30-04:00
 categories:
   - Blog
