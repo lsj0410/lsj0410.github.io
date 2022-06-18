@@ -1,5 +1,6 @@
 ---
 title: "Post: Notice"
+hidden: true
 categories:
   - Blog
 tags:
